@@ -27,7 +27,7 @@ Légende : ✅ établi par une pièce · ⚠️ à vérifier / à compléter · 
 | # | Argument de SwissLife | Pièce | Appréciation |
 |---|---|---|---|
 | A | Affection psychiatrique : garantie seulement après une hospitalisation d'au moins 1 nuitée en établissement spécialisé | Refus du 02/07/2025 | Valable pour 2025, tant qu'il n'y avait pas d'hospitalisation, **si la clause figure bien dans la notice 5939C** ⚠️. Ne s'applique plus depuis l'hospitalisation de 2026. |
-| B | « Établissement généraliste » : compte rendu complet exigé | Réponse du 09/07/2026 | Question de preuve ⚠️ : il faut produire le compte rendu au **médecin-conseil**, sous pli confidentiel, en montrant le **service** de psychiatrie. ❓ Polyclinique Saint-Laurent : service psychiatrique spécialisé ? |
+| B | « Établissement généraliste » : compte rendu complet exigé | Réponse du 09/07/2026 | Question de preuve ⚠️ : il faut produire le compte rendu au **médecin-conseil**, sous pli confidentiel, en montrant le **service** de psychiatrie. **Élément trouvé** : le formulaire d'admission de la polyclinique Saint-Laurent du **18/02/2026, 10h00**, porte l'étiquette « Lit : **PSY** », soit une unité psychiatrique (`_SENSIBLE_MEDICAL/2026-02-18_...`). Le motif « établissement généraliste » est donc contestable : c'est le service qui compte. |
 | C | Suspension depuis le 13/02/2026 ; « votre arrêt ayant eu lieu pendant cette période » | Mail du 22/07/2026 | **Erreur de fait** : le sinistre 08069874 est l'arrêt du **06/05/2025** (SwissLife l'écrit elle-même le 24/06/2026). Seule l'hospitalisation du 18/02 est postérieure ; celle du 29/01 est antérieure. |
 | D | Résiliation valable après « plusieurs relances et mises en demeure » (LRAR des 17/06/2025, 02/09/2025, 13/01/2026, 11/06/2026) | Réponse du 09/07/2026 | Liste **inexacte** : la LRAR du 02/09/2025 concerne le contrat **santé** 016917557, et celle du 11/06/2026 est vraisemblablement la résiliation elle-même. Seule la mise en demeure du 13/01/2026 fonde la suspension de 2026. |
 | E | Pas d'exonération des cotisations, faute d'arrêt indemnisé | Réponse du 09/07/2026 | Exact selon la lettre de l'art. 2.5.5, **mais** si l'indemnisation était due dès le 29/01/2026, l'exonération jouait dès le 91e jour d'arrêt indemnisé. L'argument tombe si les points C et F aboutissent. |
@@ -118,6 +118,9 @@ Votre propre estimation du 19/06/2026 (≈ 12 200 € d'indemnités et ≈ 7 700
 **À ne pas faire sans l'avis de l'avocat** : payer les arriérés de 2026 sans réserve, ou signer une transaction. Si l'avocat conseille de régulariser, payer avec la mention « **sous toutes réserves, sans reconnaissance du bien-fondé de la suspension et de la résiliation** ».
 
 ---
+
+## 6 bis. Autre dossier en cours
+Me Xavier Odinot (Austin Kelsen, Paris), mandaté le 16/11/2026, intervient sur le **conflit Baty-Home / M. Vandin / SCI Jubilado**, pas sur SwissLife. Il précise lui-même ne pas être spécialiste des procédures collectives. Pour SwissLife, il faut un avocat en **droit des assurances de personnes** (voir `00_INDEX/RECHERCHE_AVOCATS_ET_RECOURS.md`). On peut cependant demander à Me Odinot une recommandation ou une coordination, notamment sur les rachats du PER, liés à la liquidation de Baty-Home.
 
 ## 7. Questions à l'assuré (elles conditionnent les courriers)
 
