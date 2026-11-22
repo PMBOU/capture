@@ -1,0 +1,55 @@
+Récapitulatif — échéances et ordre d’envoi
+BOURLIER Pierre-Matthieu — au 19 juin 2026
+Ordre d’action
+#
+ | Action / document
+ | Destinataire
+ | Quand / délai
+ | 1
+ | Contestation de la résiliation
+(Courrier_SwissLife_contestation_resiliation)
+ | SwissLife
+CS 50003
+59897 Lille Cedex 09
+ | MAINTENANT — LRAR.
+Priorité n° 1 (créance principale + arrêt de la résiliation)
+ | 2
+ | Saisine du médiateur CPAM
+(Courrier_CPAM_mediateur)
+ | CPAM Ille-et-Vilaine
+35024 Rennes Cedex 9
+ | MAINTENANT — LRAR.
+Suspend les délais de recours CPAM
+ | 3
+ | Demande d’ALD
+(Demande_ALD_medecin)
+ | Votre médecin traitant
+ | MAINTENANT — en main propre / RDV
+ | 4
+ | Saisine de La Médiation de l’Assurance
+(Saisine_Mediation_Assurance)
+ | La Médiation de l’Assurance
+TSA 50110
+75441 Paris Cedex 09
+ | APRÈS réponse de SwissLife,
+ou 2 mois de silence
+ | 5
+ | Remise du dossier à un avocat
+(Note_synthese_avocat)
+ | Avocat (assurances /
+sécurité sociale)
+ | Rapidement — envisager un référé-provision pour l’ITT
+ | Astuce : envoyez tout en recommandé avec AR et conservez les preuves de dépôt (elles datent vos démarches et interrompent les délais).
+Délais à ne pas manquer
+CRA – CPAM : 2 mois après les courriers des 05 et 06/06/2026, soit avant le 5–6 août 2026. La saisine du médiateur (étape 2), une fois acceptée, suspend ce délai.
+Frais généraux SwissLife : garantie expirée au 05/05/2026 — à réclamer sans tarder (rétroactivement, dans le courrier SwissLife).
+Prescription assurance : 2 ans (art. L.114-1) — interrompue par chaque LRAR adressé à SwissLife.
+Médiation de l’Assurance : saisine possible après la réponse de SwissLife ou 2 mois de silence ; gratuite ; en ligne sur mediation-assurance.org.
+Montants en jeu (rappel)
+SwissLife à ce jour : ≈ 12 200 € (salaire/ITT) + ≈ 7 700 € (frais généraux, sur justificatifs) + annulation 269,30 € ; puis 3 000 €/mois tant que dure l’arrêt (jusqu’à ≈ 80 700 €).
+CPAM : 87 IJ déjà versées ; pas de droit supplémentaire pour la période continue (plafond 90 j) — l’action vise la clarté et la sécurisation des IJ 2026.
+À joindre à chaque envoi
+Avis d’arrêt successifs depuis le 06/05/2025 ; relevés d’IJ CPAM ; courriers CPAM des 05 et 06/06/2026.
+Bulletins d’hospitalisation depuis le 18/02/2026 ; certificat d’adhésion et Notice SwissLife ; mise en demeure et justificatif de résiliation (09/06/2026).
+Pour les frais généraux : justificatifs de charges professionnelles (baux, factures, contrats, attestation de l’expert-comptable).
+Rappel : je ne suis pas avocat. Pour la résiliation et la clause d’exclusion, l’appui d’un avocat est recommandé. Tous les courriers cités sont prêts dans votre dossier.
