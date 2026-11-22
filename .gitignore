@@ -1,1 +1,6 @@
 SWISSLIFE/_SENSIBLE_MEDICAL/
+# Pieces sensibles (ID, fiscal, bancaire, n° INSEE) - conservees hors depot
+SWISSLIFE/**/*_ATT_tiers-payant*
+SWISSLIFE/**/*_BNP_JUS_releve*
+SWISSLIFE/**/*_DGFIP_JUS_*
+SWISSLIFE/**/*carte-identite*
